@@ -16,7 +16,7 @@ html {
 }
 body {
   background-color: #4050b5;
-  font-family: Cochin;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 16px;
   color: #fff;
 }
@@ -171,4 +171,15 @@ body {
   margin-top: 20px;
   text-align: left;
   font-size: 13px;
+}
+#description {
+  margin-top: 30px;
+  text-align: left;
+  font-size: 16px;
+  line-height: 22px;
+}
+#description h3 {
+  font-size: 20px;
+  line-height: 20px;
+  margin: 20px 0 4px 0;
 }
